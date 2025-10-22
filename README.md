@@ -1,1 +1,1 @@
-# cafe-v1.1
+# cafeteria
